@@ -1,0 +1,89 @@
+body{
+  background-image: url("background.jpg");
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.container{
+  width: 50%;
+
+  margin: 0 auto;
+  margin-top: 80px;
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 20px;
+  padding: 80px;
+}
+
+.logo{
+  width: 25%;
+}
+
+.nome{
+    font-size: 40px;
+}
+
+header, nav {
+  text-align: center;
+  color: rgb(0, 221, 0);
+}
+
+.barranav{
+  background-color: rgb(0, 221, 0);
+  border-top: 5mm solid rgb(0, 221, 0);
+  border-bottom: 5mm solid rgb(0, 221, 0);
+}
+
+.monopattino{
+  font-size: 30px;
+  font-weight: bolder;
+  color: white;
+  width: 50%;
+}
+
+.arrow{
+  color: white;
+}
+
+.via{
+  font-weight: bold;
+  color: white;
+}
+
+.statocarica{
+
+  color: white;
+}
+
+.barra1{
+  width: 300px;
+  height: 30px;
+  margin-bottom: 20px;
+  background-color: #F5B453;
+  border-radius: 5px;
+}
+
+.barra2{
+  width: 500px;
+  height: 30px;
+  margin-bottom: 20px;
+  background-color: #1EC31E;
+  border-radius: 5px;
+}
+
+.barra3{
+  width: 130px;
+  height: 30px;
+  margin-bottom: 20px;
+  background-color:#BE4141;
+  border-radius: 5px;
+}
+
+html{
+  height: 100%;
+}
+
+.rows1{
+  display: inline-block;
+}
